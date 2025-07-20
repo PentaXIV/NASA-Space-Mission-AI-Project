@@ -8,7 +8,7 @@ Group: AnM
 ## Description: 
 Build an AI to predict radiation exposure levels for astronauts based on numerical data from space weather (e.g., solar activity, cosmic ray flux).
 ## Data: 
-Use NASA’s space weather datasets or simulated radiation measurements.
+Use NASA’s simulated radiation measurements.
 ## AI Approach: 
 1. Use Neural Network
 2. Use regression models (e.g., Linear Regression, XGBoost) to predict radiation levels from input variables like solar flare intensity.
